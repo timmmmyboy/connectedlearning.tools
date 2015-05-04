@@ -1,7 +1,7 @@
 # Site settings
 title: The Open Show
 email: your-email@domain.com
-url: https://example.github.io
+url: https://github.com/timmmmyboy/connectedlearning.tools
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
@@ -31,7 +31,12 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '<ul><li>Alan Levine, Edtech Consultant, cogdogblog@gmail.com</li>
+<li>Laura Gibbs, University of Oklahoma, laurakgibbs@gmail.com</li>
+<li>Tim Owens, Reclaim Hosting, tim@reclaimhosting.com</li>
+<li>Erin Richey, Known, erin@withknown.com</li>
+<li>Ben Werdmuller, Known, ben@withknown.com</li>
+<li>Jonathan Worth, phonar, jdubbyah@gmail.com</li></ul>'
 
 # Build settings
 markdown: kramdown
