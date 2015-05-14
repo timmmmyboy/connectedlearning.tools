@@ -2,7 +2,7 @@
 title: The Open Show
 email: your-email@domain.com
 url: https://github.com/timmmmyboy/connectedlearning.tools
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Presentation support information for DML 2015 session on tool and strategies for open connected learning"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,20 +15,30 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+  location: DML 2015
+  social: Socially Yours
+  credits: Show Stars
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: twitter
+    url: http://www.twitter.com/dmlconference
+  - title: facebook
+    url: https://www.facebook.com/DMLResearchHub
+  - title: google-plus
+    url: https://plus.google.com/u/0/communities/113655426574061601680
+  - title: flickr
+    url: http://www.flickr.com/photos/dmlcentral/
   - title: github
     url: https://github.com/timmmmyboy/connectedlearning.tools
 
+
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Equity by Design
+  - line: <a href="http://dml2015.dmlhub.net/">dml2015.dmlhub.net</a>
+  - line: Los Angeles, CA
 
 # Credits content
 credits: '<ul><li><a href="mailto:cogdogblog@gmail.com">Alan Levine</a>, Edtech Consultant</li>
