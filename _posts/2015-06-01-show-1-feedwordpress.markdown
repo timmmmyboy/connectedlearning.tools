@@ -7,7 +7,8 @@ alt: Hosted Wordpress and Feed Wordpressp lugin
 project-date: 2010
 platform: Wordpress with Feed Wordpress plugin
 examples: <a href="http://ds106.us" target="_blank">DS106</a>, <a href="http://connectedcourses.net/" target="_blank">Connected Courses</a>, <a href="http://thoughtvectors.net/" target="_blank">Thoughtvectors in Concept Space</a>
-description: <h4>What it is? (~1 tweet length)</h4>
+description: '
+<h4>What it is? (~1 tweet length)</h4>
 <p>Use a plugin in a Wordpress self hosted site that aggregates content from external sites via RSS</p>
 
 <h4>How this Creates a Connected Learning Space (~2 tweets length)</h4> 
@@ -75,9 +76,9 @@ description: <h4>What it is? (~1 tweet length)</h4>
 	<li><a href="http://reclaimhosting.com/installing-wordpress-multisite-and-using-feedwordpress/" target="_blank">Installing WordPress Multisite and Using FeedWordPress (Reclaim Hosting)</a></li>
 	<li><a href="http://bavatuesdays.com/building-with-howard-creating-a-learning-environment-with-open-source-tools-pt-1/" target="_blank">Building with Howard: Creating a Learning Environment with Open Source Tools</a> a three part video series (see <a href="http://bavatuesdays.com/building-with-howard-creating-an-open-source-learning-environment-pt-2/" target="_blank">Part 2</a> and <a href="http://bavatuesdays.com/building-with-howard-creating-an-open-source-learning-environment-pt-3/" target="_blank">Part 3</a>) where Jim Groom helps Howard Rheingold build a connected site with Wordpress / Feed Wordpress</li>
 	<li><a href="http://davidrcroteau.net/blog-post/the-mother-of-all-posts-about-blog-hubs-an-instructors-guide-to-aggregating-student-blogs/" target="_blank">The Mother of All Posts About Blog Hubs: An Instructor’s Guide to Aggregating Student Blogs</a> (David Croteau)</li>
-	<li><a href="http://bionicteaching.com/mother-blog-primer/" target="_blank">The Mother Blog Primer</a> (Bionic Teaching)</li>
+	<li><a href="http://bionicteaching.com/mother-blog-primer/" target="_blank">The Mother Blog Primer</a>  and <a href="http://rampages.us/examples/mother-blog/" target="_blank">Mother Blog Examples</a> (Bionic Teaching)</li>
 	<li><a href="http://bavatuesdays.com/aggregating-comments-into-distributed-course-hub-recipe/" target="_blank">Aggregating Comments into a Distributed Course Hub Recipe</a> (Bavatuesdays)</li>
-	<li><a href="https://mashe.hawksey.info/2013/12/tapping-the-rhizomes-of-open-learning-with-feedwordpress-your-personal-analytical-de-cloaking-device/" target="_blank">Tapping the rhizomes of open learning with FeedWordPress, (your personal analytical de-cloaking device)</a> (Martin Hawksey)
+	<li><a href="https://mashe.hawksey.info/2013/12/tapping-the-rhizomes-of-open-learning-with-feedwordpress-your-personal-analytical-de-cloaking-device/" target="_blank">Tapping the rhizomes of open learning with FeedWordPress, (your personal analytical de-cloaking device)</a> (Martin Hawksey)</li>
 </ul>
 
 <h4>Challenges</h4>
@@ -86,7 +87,7 @@ description: <h4>What it is? (~1 tweet length)</h4>
 <li>RSS feeds can be fickle, difficult for users to understand how to provide a feed, people keep claiming RSS is dead (Google pulling Reader, Twitter not providing RSS feeds since 2013)</li>
 <li>Requires continual polling of sites for new content, potentially wasted cycles of processing.</li>
 <li>Feed Wordpress plugin developer does not usually respond to requests for support</li>
-</ul>
+</ul>'
 
 
 
