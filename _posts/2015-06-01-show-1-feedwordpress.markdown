@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-06-01
 img: feedwordpress.jpg
 alt: Wordpress and Feedwordpress
 project-date: 2010

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-18
+date: 2015-06-02
 img: known.jpg
 alt: known
 project-date: 2013
