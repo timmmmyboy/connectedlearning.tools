@@ -42,13 +42,7 @@ address:
   - line: Los Angeles, CA
 
 # Credits content
-credits: '<ul><li><a href="http://cogdog.info/">Alan Levine</a> &bull; <a href="http://cogdogblog.com">CogDogBlog</a></li>
-<li><a href="http://mythfolklore.net/">Laura Gibbs</a> &bull; <a href="http://www.ou.edu">University of Oklahoma</a></li>
-<li><a href="http://timowens.io/">Tim Owens</a> &bull; <a href="https://reclaimhosting.com">Reclaim Hosting</a></li>
-<li><a href="http://bavatuesdays.com">Jim Groom</a> &bull;  <a href="https://reclaimhosting.com">Reclaim Hosting</a></li>
-<li><a href="http://erinjorichey.com">Erin Richey</a> &bull;  <a href="http://withknown.com">Known</a></li>
-<li><a href="http://werd.io">Ben Werdmuller</a> &bull;  <a href="http://withknown.com">Known</a></li>
-<li><a href="https://about.me/jonathan_worth">Jonathan Worth</a> &bull;  <a href="http://phonar.com/">phonar</a></li></ul>'
+credits: '<a href="http://cogdog.info/">Alan Levine</a> &bull; <a href="http://cogdogblog.com">CogDogBlog</a><br /><a href="http://mythfolklore.net/">Laura Gibbs</a> &bull; <a href="http://www.ou.edu">University of Oklahoma</a><br /><a href="http://timowens.io/">Tim Owens</a> &bull; <a href="https://reclaimhosting.com">Reclaim Hosting</a><br /><a href="http://bavatuesdays.com">Jim Groom</a> &bull;  <a href="https://reclaimhosting.com">Reclaim Hosting</a><br /><a href="http://erinjorichey.com">Erin Richey</a> &bull;  <a href="http://withknown.com">Known</a><br /><a href="http://werd.io">Ben Werdmuller</a> &bull;  <a href="http://withknown.com">Known</a><br /><a href="https://about.me/jonathan_worth">Jonathan Worth</a> &bull;  <a href="http://phonar.com/">phonar</a>'
 
 # Build settings
 markdown: kramdown
