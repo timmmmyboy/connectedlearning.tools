@@ -6,19 +6,20 @@ img: known.jpg
 alt: known
 project-date: 2013
 platform: IndieWeb Stuff
-examples: Three cool known sites here
+examples: <p><a href="http://www.aud.life/" target="_blank">Audrey Watters</a><br><a href="http://www.leoville.net/" target="_blank">Leo Laporte</a><br><a href="http://links.windley.com/" target="_blank">Phil Windley</a><br><a href="http://www.endless.systems/" target="_blank">Warren Ellis</a></p>
 
-what: <p>This is the concise explanation that succintly says it all or at least hints at it in a teasingly way. Like how different and indieweb @withknown is.</p>
-how: <p>A general explanation of what fucntionalities,  feature it offers to enable the idea of a connected course</p>
-equity: <p>A sentence or two about how the platform addresses equity in its design.</p>
-origin: <p>A few paragraphs, even with <a href="#" target="_blank">links</a> that give a bit of a "where the heck did this come from" story.</p> <p>Yes, multiple paragraphs are more than cool.</p> 
-demolinks: <ul><li><a href="http://withknown.com/">known</a></li></ul>
+what: <p><a href="https://withknown.com/" target="_blank">Known</a> is a personal learning environment for the connected student. Publish course projects, reflect on your learning, and share ideas with your peers.</p>
+how: <p>Known bridges the gap between a private, reflective space and a community platform. Everyone gets their own space to publish and reflect. However, by sharing ideas with their class group, students get valuable feedback and new insights on their learning.</p>
+equity: <p>Known is un-hierarchical: for the purposes of publishing and discussion, every use is equal to every other user. Furthermore, <a href="https://withknown.com/opensource/">the platform itself is open source</a>, and can be adopted and modified by any size of institution.</p>
+origin: <p>The founders of Known came together at <a href="http://indiewebcamp.com" target="_blank">IndieWebCamp</a>: an event centered around empowering users to own their own conversations and content online. Separately, we had cofounded <a href="http://elgg.org" target="_blank">Elgg</a>, the community platform for education, and worked with brands like Microsoft, eBay and Intel. We saw a need to create a user-controlled publishing space for the social media age, that worked as well on a phone as it did on a computer, and that had social connectivity built into the core of its design.</p> 
+demolinks: <ul><li><a href="https://withknown.com/">Known</a></li><li><a href="https://withknown.com/education/" target="_blank">Known for Education</a></li></ul>
 frontstage: <p><img src="http://placehold.it/480x360&text=embed+code+for+your+video"></p>
 backstage: <p><img src="http://placehold.it/480x360&text=embed+code+for+your+video"></p>
-tech: <ul> <li><a href="#" target="_blank">Name it</a> (cost) plus extra descriptions </li> <li><a href="#" target="_blank">Name Another</a> (cost) plus extra descriptions </li> </ul>
-skills: <p>A general description to give someone an idea what it might take, like brain surgery or what?</p>
-examplelist: <ul> <li>Name (Date(s) - institution or organization)  <a href="#" target="_blank">link</a></li> <li>Name (Date(s) - institution or organization)  <a href="#" target="_blank">link</a></li> <li>Name (Date(s) - institution or organization)  <a href="#" target="_blank">link</a></li> <li>Name (Date(s) - institution or organization)  <a href="#" target="_blank">link</a></li> </ul> 
-guides: <ul><li><a href="#" target="_blank">A descriptive link title</a>  (Source)</li> <li><a href="#" target="_blank">A descriptive link title</a>  (Source)</li> <li><a href="#" target="_blank">A descriptive link title</a>  (Source)</li> <li><a href="#" target="_blank">A descriptive link title</a>  (Source) perhaps with some extra details?</li> </ul>
-challenges: <ul> <li>This is hard.</li> <li>It's so new.</li> <li>I hate beets.</li> </ul>
+tech: <p>Known is built on a LAMP stack: Linux, Apache, MySQL and PHP, similarly to WordPress. It can be run on a single site, or scaled up to handle publishing across a campus. The core platform is open source, while course discussion, campus management software and support are available with an annual license. The platform is fully-responsive and works well on any device, and native mobile apps are coming soon.</p><p>Additionally, a fully-hosted turnkey service exists: 200 users can collaborate on a website with unlimited storage and bandwidth, including CDN, for $10 a month. Campus-level hosting is also available.
+</p>
+skills: <p>Self-hosting Known requires some understanding of server administration. The managed version requires no technical knowledge.</p>
+examplelist: <ul><li><a href="http://hub.wire106.com/" target="_blank">Wire106 Hub</a> (Fall 2014)</li><li><a href="https://virtualbodies.withknown.com/" target="_blank">Gender, Violence and Technology</a></li></ul>
+guides: <ul><li><a href="http://stream.withknown.com/2014/running-personal-connected-courses-with-known-edtech-edtechchat" target="_blank">Running personal, connected courses with Known</a></li><li><a href="http://bavatuesdays.com/teaching-without-wordpress-exploring-the-known-world/" target="_blank">Teaching Without WordPress: Exploring the Known World</a></li><li><a href="http://twit.tv/show/this-week-in-google/266">This Week in Google: The IndieWeb</a></li><li><a href="https://www.youtube.com/watch?v=Nzq64Yatt7I" target="_blank">Connecting to the Indie Web</a></li></ul>
+challenges: <p>Any community needs to be led by example. The biggest challenge is establishing a productive community culture. However, moderation, campus management software and an easy-to-use interface makes this easy.</p>
 
 ---
