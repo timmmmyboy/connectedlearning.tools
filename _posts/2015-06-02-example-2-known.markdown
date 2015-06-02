@@ -6,7 +6,7 @@ img: known.jpg
 alt: known
 project-date: 2013
 platform: IndieWeb Stuff
-examples: <p><a href="http://www.aud.life/" target="_blank">Audrey Watters</a><br><a href="http://www.leoville.net/" target="_blank">Leo Laporte</a><br><a href="http://links.windley.com/" target="_blank">Phil Windley</a><br><a href="http://www.endless.systems/" target="_blank">Warren Ellis</a></p>
+examples: coming soon
 
 what: <p><a href="https://withknown.com/" target="_blank">Known</a> is a personal learning environment for the connected student. Publish course projects, reflect on your learning, and share ideas with your peers.</p>
 how: <p>Known bridges the gap between a private, reflective space and a community platform. Everyone gets their own space to publish and reflect. However, by sharing ideas with their class group, students get valuable feedback and new insights on their learning.</p>
